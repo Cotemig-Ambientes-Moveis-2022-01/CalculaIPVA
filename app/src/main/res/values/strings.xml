@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculaIPVA</string>
+    <string name="calculo_do_ipva">Cálculo do IPVA</string>
+    <string name="preencha_o_valor_do_ve_culo">Preencha o valor do veículo</string>
+    <string name="calcular">Calcular</string>
+    <string name="ipva">IPVA</string>
+    <string name="valor_da_parcela">Valor da Parcela</string>
+</resources>
